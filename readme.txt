@@ -8,7 +8,6 @@ dev-working！！！！????????
 
 
 dev
->>>>>>> dev
-add master asukalove
 
 
+add asukalove   dev
